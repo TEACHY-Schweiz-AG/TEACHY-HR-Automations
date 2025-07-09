@@ -1,6 +1,6 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
+name: Automation HR Tutoren
+about: Vorlage zur strukturierten Erstellung von Automatisierungs-Issues im HR-Tutoren-Projekt.
 title: Title
 labels: bug, duplicate, help wanted, invalid, Priority Level 1, Priority Level 2,
   Priority Level 3, Priority Level 4, question, wontfix
